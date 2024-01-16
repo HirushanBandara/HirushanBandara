@@ -1,6 +1,19 @@
 <h1 align="center">Hi ., I'm Hirushan Bandara</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hirushanbandara&label=Profile%20views&color=0e75b6&style=flat" alt="hirushanbandara" /> </p>
 
+
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
+
+</td></tr></table>  
+
+<br/>  
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
